@@ -5,6 +5,8 @@ repo: saas-template-upptime # The name of this repository
 sites:
   - name: Peasy.nu
     url: https://www.peasy.nu
+  - name: API Server
+    url: https://saas-template.cool-runner-1.subtree.se/api/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
