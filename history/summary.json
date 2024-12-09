@@ -22,17 +22,19 @@
     "url": "https://saas-template.cool-runner-1.subtree.se/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/saas-template.cool-runner-1.subtree.se.ico",
     "slug": "api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 790,
-    "timeDay": 812,
-    "timeWeek": 790,
-    "timeMonth": 790,
-    "timeYear": 790,
-    "dailyMinutesDown": {}
+    "time": 752,
+    "timeDay": 688,
+    "timeWeek": 752,
+    "timeMonth": 752,
+    "timeYear": 752,
+    "dailyMinutesDown": {
+      "2024-12-09": 0
+    }
   }
 ]
