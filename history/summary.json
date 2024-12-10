@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 466,
-    "timeDay": 566,
-    "timeWeek": 466,
-    "timeMonth": 466,
-    "timeYear": 466,
+    "time": 485,
+    "timeDay": 655,
+    "timeWeek": 485,
+    "timeMonth": 485,
+    "timeYear": 485,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/saas-template.cool-runner-1.subtree.se.ico",
     "slug": "api-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 752,
-    "timeDay": 688,
-    "timeWeek": 752,
-    "timeMonth": 752,
-    "timeYear": 752,
+    "uptime": "86.04%",
+    "uptimeDay": "36.33%",
+    "uptimeWeek": "86.04%",
+    "uptimeMonth": "86.04%",
+    "uptimeYear": "86.04%",
+    "time": 717,
+    "timeDay": 535,
+    "timeWeek": 717,
+    "timeMonth": 717,
+    "timeYear": 717,
     "dailyMinutesDown": {
-      "2024-12-09": 0
+      "2024-12-10": 28,
+      "2024-12-09": 888
     }
   }
 ]
