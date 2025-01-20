@@ -1,7 +1,7 @@
 url: https://api.cool-runner-1.subtree.se/api/health
-status: up
-code: 200
-responseTime: 741
-lastUpdated: 2025-01-19T23:02:22.891Z
+status: down
+code: 503
+responseTime: 689
+lastUpdated: 2025-01-20T04:10:43.002Z
 startTime: 2024-12-05T10:59:18.310Z
 generator: Upptime <https://github.com/upptime/upptime>
