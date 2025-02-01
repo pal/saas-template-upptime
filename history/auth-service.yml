@@ -1,7 +1,7 @@
 url: https://api.cool-runner-1.subtree.se/api/auth/ok
-status: down
-code: 503
-responseTime: 134
-lastUpdated: 2025-01-31T23:02:18.888Z
+status: up
+code: 200
+responseTime: 130
+lastUpdated: 2025-02-01T00:32:34.269Z
 startTime: 2024-12-16T16:23:52.916Z
 generator: Upptime <https://github.com/upptime/upptime>
